@@ -1,4 +1,4 @@
-Authors: Jae Sohn and Jay Lee
+Authors: jaes@, junghwan@
 
 FragileFamilies.py and FragileFamilies2.py require the dataset from the fragiile families challenge: https://fragilefamilies.princeton.edu/
 
